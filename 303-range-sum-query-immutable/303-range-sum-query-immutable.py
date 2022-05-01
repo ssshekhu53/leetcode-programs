@@ -5,7 +5,14 @@ class NumArray:
         
 
     def sumRange(self, left: int, right: int) -> int:
-        return sum(self.nums[left:right+1])
+        sum = 0
+        while left < right:
+            sum += self.nums[left] + self.nums[right]
+            left += 1
+            right -= 1
+        if left == right:
+            sum += self.nums[left]
+        return sum
         
 
 
