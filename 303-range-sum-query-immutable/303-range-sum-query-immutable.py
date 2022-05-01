@@ -5,10 +5,7 @@ class NumArray:
         
 
     def sumRange(self, left: int, right: int) -> int:
-        sum = 0
-        for i in range(left, right+1):
-            sum += self.nums[i]
-        return sum
+        return sum(self.nums[left:right+1])
         
 
 
