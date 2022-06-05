@@ -1,11 +1,9 @@
 class Solution {
 public:
     int binaryGap(int n) {
-        int prev, maxDiff;
-        int i, pos;
+        int i, prev, maxDiff, pos;
         prev=maxDiff=0;
-        i=1;
-        pos=1;
+        i=pos=1;
         while(i<=n) {
             if(i&n) {
                 if(prev==0) 
