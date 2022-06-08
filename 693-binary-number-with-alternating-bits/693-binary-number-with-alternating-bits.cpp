@@ -1,17 +1,8 @@
 class Solution {
 public:
-    bool hasAlternatingBits(int n) {
-        long int flag, i, temp;
-        i=1;
-        flag=!(n&i);
-        i=i<<1;
-        while(i<=n) {
-            temp=i&n?1:0;
-            if(temp!=flag)
-                return false;
-            flag=!temp;
-            i=i<<1;
-        }
-        return true;
+    bool hasAlternatingBits(int num) {
+        unsigned long long int n=num;
+        unsigned long long int i=n+(n>>1);
+        return (i&(i+1))==0;
     }
 };
