@@ -1,6 +1,5 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        // System.out.println();
         int changes5, changes10, changes20;
         changes5=changes10=changes20=0;
         for(int bill: bills) {
