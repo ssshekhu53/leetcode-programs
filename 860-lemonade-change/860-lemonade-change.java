@@ -22,9 +22,7 @@ class Solution {
                     changes20++;
                     break;
             }
-            System.out.println(changes5+" "+changes10+" "+changes20);
         }
-        System.out.println();
         return true;
     }
 }
