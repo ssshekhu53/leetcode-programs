@@ -6,7 +6,6 @@ public:
         max=*max_element(nums.begin(), nums.end());
         min=*min_element(nums.begin(), nums.end());
         mid=(max+min)/2;
-        // cout<<mid<<endl;
         for(int i=0; i<n; i++) {
             if(nums[i]<mid) {
                 if(nums[i]+k>=mid)
@@ -20,7 +19,6 @@ public:
                 else
                     nums[i]-=k;
             }
-            // cout<<nums[i]<<" ";
         }
         
         max=*max_element(nums.begin(), nums.end());
