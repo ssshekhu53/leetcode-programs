@@ -20,6 +20,6 @@ public:
                 return false;
             st.push(ch);
         }
-        return (countA<2) && (countL<3);
+        return (countA<2);
     }
 };
