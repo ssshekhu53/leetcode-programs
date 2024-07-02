@@ -8,6 +8,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1580-shuffle-the-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1580-shuffle-the-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ssshekhu53/leetcode-programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
