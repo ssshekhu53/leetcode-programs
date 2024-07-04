@@ -12,6 +12,7 @@ It contains all the programs that I have submitted on Leetcode
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ssshekhu53/leetcode-programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssshekhu53/leetcode-programs/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -19,6 +20,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssshekhu53/leetcode-programs/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -37,6 +39,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +60,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
