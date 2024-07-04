@@ -12,12 +12,14 @@ It contains all the programs that I have submitted on Leetcode
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ssshekhu53/leetcode-programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssshekhu53/leetcode-programs/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
+| [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssshekhu53/leetcode-programs/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -47,4 +49,12 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
