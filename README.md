@@ -38,6 +38,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ssshekhu53/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 ## Simulation
@@ -64,4 +65,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ssshekhu53/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
