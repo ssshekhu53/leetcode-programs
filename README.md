@@ -11,6 +11,7 @@ It contains all the programs that I have submitted on Leetcode
 | [1580-shuffle-the-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ssshekhu53/leetcode-programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/ssshekhu53/leetcode-programs/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
@@ -71,4 +72,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ssshekhu53/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Greedy
+|  |
+| ------- |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/ssshekhu53/leetcode-programs/tree/master/2199-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
