@@ -35,6 +35,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/ssshekhu53/leetcode-programs/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ssshekhu53/leetcode-programs/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Counting
 |  |
@@ -51,6 +52,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ssshekhu53/leetcode-programs/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
