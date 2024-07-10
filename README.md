@@ -10,6 +10,7 @@ It contains all the programs that I have submitted on Leetcode
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1580-shuffle-the-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
+| [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ssshekhu53/leetcode-programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ssshekhu53/leetcode-programs/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -30,6 +31,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ssshekhu53/leetcode-programs/tree/master/0151-reverse-words-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssshekhu53/leetcode-programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
@@ -86,4 +88,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ssshekhu53/leetcode-programs/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
