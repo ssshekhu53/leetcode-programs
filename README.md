@@ -8,6 +8,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
@@ -67,6 +68,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Sorting
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 ## Ordered Set
 |  |
@@ -92,4 +94,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
