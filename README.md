@@ -32,6 +32,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ssshekhu53/leetcode-programs/tree/master/0151-reverse-words-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssshekhu53/leetcode-programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssshekhu53/leetcode-programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
@@ -93,6 +94,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssshekhu53/leetcode-programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 ## Heap (Priority Queue)
 |  |
