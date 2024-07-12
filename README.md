@@ -12,6 +12,7 @@ It contains all the programs that I have submitted on Leetcode
 | [1580-shuffle-the-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
+| [1848-sum-of-unique-elements](https://github.com/ssshekhu53/leetcode-programs/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ssshekhu53/leetcode-programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ssshekhu53/leetcode-programs/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -23,6 +24,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/ssshekhu53/leetcode-programs/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssshekhu53/leetcode-programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
@@ -45,6 +47,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/ssshekhu53/leetcode-programs/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssshekhu53/leetcode-programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
