@@ -93,6 +93,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Database
 |  |
 | ------- |
+| [1670-patients-with-a-condition](https://github.com/ssshekhu53/leetcode-programs/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ssshekhu53/leetcode-programs/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Stack
 |  |
