@@ -19,6 +19,7 @@ It contains all the programs that I have submitted on Leetcode
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssshekhu53/leetcode-programs/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ It contains all the programs that I have submitted on Leetcode
 | [2163-kth-distinct-string-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssshekhu53/leetcode-programs/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -108,4 +110,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
