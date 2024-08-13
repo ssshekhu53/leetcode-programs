@@ -43,6 +43,7 @@ It contains all the programs that I have submitted on Leetcode
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssshekhu53/leetcode-programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2401-count-asterisks](https://github.com/ssshekhu53/leetcode-programs/tree/master/2401-count-asterisks) |
 ## Math
 |  |
 | ------- |
