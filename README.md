@@ -7,6 +7,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/ssshekhu53/leetcode-programs/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -25,6 +26,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ssshekhu53/leetcode-programs/tree/master/1848-sum-of-unique-elements) |
@@ -117,4 +119,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
