@@ -26,6 +26,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ssshekhu53/leetcode-programs/tree/master/0012-integer-to-roman) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
@@ -39,6 +40,7 @@ It contains all the programs that I have submitted on Leetcode
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ssshekhu53/leetcode-programs/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/ssshekhu53/leetcode-programs/tree/master/0151-reverse-words-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssshekhu53/leetcode-programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -49,6 +51,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ssshekhu53/leetcode-programs/tree/master/0012-integer-to-roman) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/ssshekhu53/leetcode-programs/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ssshekhu53/leetcode-programs/tree/master/1817-calculate-money-in-leetcode-bank) |
