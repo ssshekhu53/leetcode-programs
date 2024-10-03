@@ -7,6 +7,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -67,6 +68,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ssshekhu53/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ssshekhu53/leetcode-programs/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssshekhu53/leetcode-programs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssshekhu53/leetcode-programs/tree/master/2442-number-of-arithmetic-triplets) |
