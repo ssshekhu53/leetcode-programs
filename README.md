@@ -7,6 +7,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ssshekhu53/leetcode-programs/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ssshekhu53/leetcode-programs/tree/master/0056-merge-intervals) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 ## Ordered Set
