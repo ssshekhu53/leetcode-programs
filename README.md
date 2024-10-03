@@ -7,6 +7,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/ssshekhu53/leetcode-programs/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -83,6 +84,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ssshekhu53/leetcode-programs/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Database
 |  |
