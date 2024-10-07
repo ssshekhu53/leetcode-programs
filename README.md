@@ -8,6 +8,7 @@ It contains all the programs that I have submitted on Leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ssshekhu53/leetcode-programs/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
@@ -133,4 +134,12 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
