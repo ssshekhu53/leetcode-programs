@@ -120,6 +120,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ssshekhu53/leetcode-programs/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssshekhu53/leetcode-programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
 ## Heap (Priority Queue)
@@ -142,4 +143,8 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ssshekhu53/leetcode-programs/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
