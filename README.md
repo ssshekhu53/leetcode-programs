@@ -7,6 +7,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ssshekhu53/leetcode-programs/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ssshekhu53/leetcode-programs/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -89,6 +90,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ssshekhu53/leetcode-programs/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ssshekhu53/leetcode-programs/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ssshekhu53/leetcode-programs/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Database
