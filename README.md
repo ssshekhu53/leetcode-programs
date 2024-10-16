@@ -45,6 +45,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ssshekhu53/leetcode-programs/tree/master/0012-integer-to-roman) |
+| [0071-simplify-path](https://github.com/ssshekhu53/leetcode-programs/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/ssshekhu53/leetcode-programs/tree/master/0151-reverse-words-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssshekhu53/leetcode-programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -120,6 +121,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ssshekhu53/leetcode-programs/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/ssshekhu53/leetcode-programs/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ssshekhu53/leetcode-programs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ssshekhu53/leetcode-programs/tree/master/1720-crawler-log-folder) |
