@@ -1,27 +1,25 @@
 func canJump(nums []int) bool {
-    n := len(nums)
+    canJumbToPerIndexs := []bool{true}
 
-    if n == 1 {
-        return true
-    }
-
-    d := 0
-    res := true
-
-    for i := n - 2; i >= 0; i-- {
-        d += 1
-
-        if nums[i] == 0 {
-            res = false
-
-            continue
+    for i := len(nums)-2; i >= 0; i-- {
+        // check if there is a path from current index to the end
+        isTherePath := false
+        for j := 0; j < len(canJumbToPerIndexs) && j < nums[i]; j++ {
+            if canJumbToPerIndexs[j] {
+                isTherePath = true
+                break
+            }
         }
 
-        if nums[i] >= d {
-            res = true
-            d = 0
+        // if there is a path, add true to the from of the list 
+        // because by this true you will know you can to go the end
+        // by visiting the current index
+        if isTherePath {
+            canJumbToPerIndexs = append([]bool{true}, canJumbToPerIndexs...)
+        }else{
+            canJumbToPerIndexs = append([]bool{false}, canJumbToPerIndexs...)
         }
     }
 
-    return res
+    return canJumbToPerIndexs[0]
 }
