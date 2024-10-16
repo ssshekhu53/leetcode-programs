@@ -10,7 +10,6 @@ func canJump(nums []int) bool {
 
     for i := n - 2; i >= 0; i-- {
         d += 1
-        fmt.Println(d, nums[i])
 
         if nums[i] == 0 {
             res = false
