@@ -12,6 +12,7 @@ It contains all the programs that I have submitted on Leetcode
 | [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/ssshekhu53/leetcode-programs/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -144,6 +145,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
 |  |
 | ------- |
