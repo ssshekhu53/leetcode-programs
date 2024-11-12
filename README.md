@@ -6,6 +6,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ssshekhu53/leetcode-programs/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ssshekhu53/leetcode-programs/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ssshekhu53/leetcode-programs/tree/master/0056-merge-intervals) |
@@ -149,6 +150,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ssshekhu53/leetcode-programs/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
