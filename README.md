@@ -13,6 +13,7 @@ It contains all the programs that I have submitted on Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssshekhu53/leetcode-programs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/ssshekhu53/leetcode-programs/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -33,6 +34,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ssshekhu53/leetcode-programs/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
@@ -65,6 +67,7 @@ It contains all the programs that I have submitted on Leetcode
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/ssshekhu53/leetcode-programs/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/ssshekhu53/leetcode-programs/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssshekhu53/leetcode-programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -87,6 +90,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ssshekhu53/leetcode-programs/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +101,7 @@ It contains all the programs that I have submitted on Leetcode
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ssshekhu53/leetcode-programs/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2447-merge-similar-items](https://github.com/ssshekhu53/leetcode-programs/tree/master/2447-merge-similar-items) |
 ## Ordered Set
