@@ -18,6 +18,7 @@ It contains all the programs that I have submitted on Leetcode
 | [0169-majority-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ssshekhu53/leetcode-programs/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ssshekhu53/leetcode-programs/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/ssshekhu53/leetcode-programs/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/1580-shuffle-the-array) |
@@ -156,6 +157,7 @@ It contains all the programs that I have submitted on Leetcode
 | [0074-search-a-2d-matrix](https://github.com/ssshekhu53/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ssshekhu53/leetcode-programs/tree/master/0162-find-peak-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ssshekhu53/leetcode-programs/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
